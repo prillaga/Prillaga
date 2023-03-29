@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+/* Position*/
+.container {
+  position: relative;
+}
+
+/* Product start */
+.product {
+  display: none;
+}
+
+
+/* Caption*/
+.caption {
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
